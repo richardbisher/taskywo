@@ -1,0 +1,75 @@
+.header
+{
+    background-color: black;
+    height: 85px;
+    color: white;
+    text-align: center;
+    
+}
+.header h1
+{
+    padding: 12px;
+}
+#first_url
+{
+ margin-left: 15%;
+ padding: 25px;
+}
+#input_bookmarkurl
+{
+    padding-right: 275px;
+    padding-bottom: 28px;
+    text-align: start;
+    padding-top: 12px;
+    padding-left: 12px;
+}
+#add_url
+{
+    padding: 15px;
+    padding-bottom: 28px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    border: none;
+    border: solid 2px black;
+}
+#Clear_url
+{
+    
+    padding: 15px;
+    padding-bottom: 28px;
+    background-color: orangered;
+    color: aliceblue;
+    border: none;
+}
+.second_url
+{
+    border: solid 2px black;
+    width: 44%;
+    height: 46px;
+    margin-left: 141px;
+    padding: 23px;
+    padding-right: 297px;
+    /* display: flex; */
+    display:inline-block;
+    margin-top: 25px;
+
+
+
+}
+#ed_url
+{
+    /* padding-right: 331px; */
+    border: none;
+}
+#edit_url
+{
+    padding: 15px;
+    padding-right: 25px;
+    margin-right: 12px;
+
+}
+#delete_url
+{
+    padding: 15px;
+    padding-right: 25px;
+}

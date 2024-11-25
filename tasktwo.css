@@ -49,8 +49,8 @@
     margin-left: 141px;
     padding: 23px;
     padding-right: 297px;
-    /* display: flex; */
-    display:inline-block;
+    display: flex;
+    justify-content: space-between;
     margin-top: 25px;
 
 
@@ -72,4 +72,51 @@
 {
     padding: 15px;
     padding-right: 25px;
+}
+
+.editurltextbox
+{
+    position: absolute;
+    top: 35px;
+    left: 50%;
+}
+.backpage
+{
+    background-color: black;
+    opacity: 35%;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: none;
+     z-index: 1; 
+}
+.editurl_textbox
+{
+    padding-top: 12px;
+    z-index: 2;
+    display: none;
+    position: absolute;
+    top: 35px;
+    left: 47%;
+}
+#edittext
+{
+    padding-right: 275px;
+    padding-bottom: 28px;
+    text-align: start;
+    padding-top: 12px;
+    padding-left: 12px;
+    margin-left: -211px;
+    margin-top: 14px;
+}
+#submit
+{
+    padding: 9px;
+    padding-right: 25px;
+    padding-bottom: 16px;
+    color: blue;
+    font-size: large;
+    padding-top: 9px;
 }

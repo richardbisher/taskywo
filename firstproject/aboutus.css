@@ -1,0 +1,276 @@
+.top_first_section
+{
+    background-color: #F0F3F2;
+    
+}
+.first_container
+{
+    padding: 0px 60px 0px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.dropdown-toggle
+{
+    background-color: transparent;
+    border: none;
+    color: black;
+}
+
+button.btn.btn-secondary.dropdown-toggle {
+    background-color: transparent;
+    border: none;
+    color: black;
+}
+.second_container
+{
+    padding: 0px 60px 0px 60px;
+    display:flex;
+}
+.mb-3
+{
+    margin-top: 20px;
+    
+}
+.searchbar
+{
+    display: flex;
+    /* justify-content: space-between; */
+    /* display: inline-block; */
+}
+.searchright
+{
+    margin-left: 297px;
+}
+
+.form-floating>.form-control, .form-control-plaintext {
+
+    width: 480.66px;
+    height: 22.39px;
+    margin: 0px;
+    
+}
+
+btn btn-outline-secondary {
+
+    width: 114.47px;
+    height:41.98px;
+    border-radius: 8px;
+    border: 1px;
+    padding: 0px;
+    display: flex;
+}
+.location_content
+{
+    display: flex;
+        width: 114.47px;
+        height: 55.98px;
+        border-radius: 8px;
+        border: 1px;
+        margin-top: 20px;
+        border-color: #C1C7C6;
+        width: 582px;
+}
+.top_icons
+{
+    display: flex;
+    gap: 20px;
+}
+.top_icons{
+    width: 206.66px;
+    height: 22.39px;
+    margin-top: 20px;
+    
+}
+.third_container
+{
+    padding: 0px 60px 0px 60px;
+
+}
+
+.dropbtn {
+    background-color:#0AAD0A;
+    color: white;
+   width: 182.59px;
+   height: 41.98px;
+   border-radius: 8px;
+   border: 1px;
+    border: none;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .catimg{
+    margin-right: 12px;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color:#0AAD0A;}
+
+.third_navbar
+{
+    display: flex;
+}
+
+
+
+
+.dropbtnhome {
+    
+    color: black;
+   width:78.55px;
+   height: 41.09px;
+   border-radius: 8px;
+   border: 1px;
+    border: none;
+    background: transparent;
+  }
+  
+  .dropdownhome {
+    position: relative;
+    display: inline-block;
+  }
+  .catimg{
+    margin-right: 12px;
+  }
+  .dropdownhome-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdownhome-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+.dropdownhome-content a:hover {background-color: #ddd;}
+
+.dropdownhome:hover .dropdownhome-content {display: block;}
+
+
+.third_navbar
+{
+    display: flex;
+}
+.navlinks
+{
+    display: flex;
+   
+}
+
+.navrightlink
+{
+display: flex;
+ gap: 12px; 
+ margin-top: 6px;
+ margin-left: 17px;
+}
+.border
+{
+    border: #DFE2E1 1px;
+    margin-top: 16px;
+}
+.first_heading
+{
+    width: 342px;
+    height: 84px;
+    font-size: 35px;
+}
+.first_par
+{
+    width: 342px;
+    height:112px;
+    font-size: 17.5px;
+    margin-top: 24px;
+}
+.fourth_container
+{
+    display: flex;
+    gap: 112px;
+    margin: 80px 180px;
+}
+.fifth_container
+{
+    margin-left: 186px;
+    margin-right: 186px;
+}
+card{
+ background-color: #F0F3F2;
+}
+
+
+.card-img-top {
+    width: 120px;
+    height: 120px;
+    margin-left: -58px;
+}
+.card_container
+{
+    display: flex;
+    gap: 32px;
+    width: 3666.66px;
+    height: 415.53px;
+    
+}
+.fifth_container_lastword
+{
+    margin-top: 24px;
+    font-size: 14px;
+    color: #5C6C75;
+}
+.link
+{
+    color: #0AAD0A;
+    text-decoration: none;
+}
+.sixth_container
+{
+    background-color: #198754;
+    padding: 80px 170px;
+}
+
+.sixth_heading
+{
+    width: 336.66px;
+    height: 68.59px;
+    font-size: 28px;
+    color: white;
+}
+.sixth_par
+{
+    width: 334.66px;
+    height: 45px;
+    color: white;
+    font-size: 14px;
+}
+.sixth_containerlist
+{
+    display: flex;
+    gap: 175px;
+    color: whitesmoke;
+    width: 235px;
+    height: 58px;
+}
